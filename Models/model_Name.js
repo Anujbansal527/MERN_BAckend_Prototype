@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 //creating data base structurewith validations
-const Model_name = new MongoServerClosedError.Schema(
+const Model_name = new mongoose.Schema(
     {
         /*        
         name: {
